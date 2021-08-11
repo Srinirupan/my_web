@@ -1,0 +1,12 @@
+    body{
+            background-image:url("../Img/my.png");
+            background-size: cover;
+            
+        }
+        img{
+            width:300px;
+            height:auto;
+            border-radius: 120px;
+            align-items: center;
+            box-shadow: 2px 2px black;
+        }
